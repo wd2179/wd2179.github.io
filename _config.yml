@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Wouter Dessein / Columbia Business School"
+title                    : "Wouter Dessein"
 title_separator          : "-"
 name                     : &name "Wouter Dessein"
 description              : &description "Columbia Business School"
@@ -23,22 +23,22 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Wouter Dessein"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
-  uri              : # URL
-  email            : "none@example.org" 
+  bio              : "Wouter Dessein is the Eli Ginzberg Professor of Finance and Economics at Columbia Business School. Dessein's research interests center on the economics of organizations: the allocation of decision-rights in organizations, the organizational structure of multi-divisional firms, the role of managers in setting firm strategy, and the impact of corporate leaders on the long-term performance of firms. His research has been published in leading journals such as the American Economic Review, the Journal of Political Economy, the Review of Economic Studies, and the Journal of Finance. At Columbia, he teaches a popular elective on the `Economics of Strategic Behavior', a course which examines the underlying economics of successful business strategy. Prior to joining the Columbia Business School faculty, Dessein was an associate professor of economics at the University of Chicago, Graduate School of Business. Dessein earned his Bachelor in management and applied sciences from the Katholieke Universiteit Leuven, Belgium, and a Ph.D. in economics from Toulouse University and the Universite Libre de Bruxelles."
+  location         : "New York"
+  employer         : "Columbia University"
+  uri              : "https://business.columbia.edu/faculty/people/wouter-dessein"
+  email            : "wd2179@gsb.columbia.edu" 
 
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?user=wQUepfUAAAAJ&hl=en&oi=ao"
   impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : #"http://orcid.org/yourorcidurl"
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
   scopus           : # URL
 
@@ -46,12 +46,12 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : #"academicpages"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : #"bsky.app" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
@@ -78,12 +78,12 @@ author:
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
-  books:
-    title: 'Books'
+  working papers:
+    title: 'Working Papers'
   manuscripts:
     title: 'Journal Articles'    
-  conferences:
-    title: 'Conference Papers'
+  other publications:
+    title: 'Other Publications'
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
