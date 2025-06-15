@@ -1,14 +1,12 @@
 ---
-title: "Paper Title Number 2"
+title: "La Cordata: Loyalty in Political Tournaments."
 collection: publications
-category: manuscripts
-permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
-slidesurl: 'http://academicpages.github.io/files/slides2.pdf'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+category: working papers
+permalink: /working papers/2025-06-09-La_Cordata
+excerpt: 'We study the allocation of talent in tournaments between (political) teams. The winner-take-all nature of these contests implies that talented members may quit if the odds of winning diminish. A leader must choose between competent individuals who increase the chances of winning but may bolt at the first hint of bad news, and loyalists who have fewer outside options. The value of loyalty increases when outside options are more valuable, pre-election information (polls, primaries) is more predictive, or elections are more competitive. Monetary incentives do not negate the value of loyalty. We discuss organizational responses, such as ideological platforms and shorter campaigns, and show how  leader loyalty can improve the talent-loyalty trade-off by enabling long-term relationships.'
+date: 2025-06-09
+paperurl: 'http://academicpages.github.io/files/La Cordata_Loyalty in Political Tournaments.pdf'
+
 ---
 
 The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
