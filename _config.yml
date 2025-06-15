@@ -85,6 +85,14 @@ publication_category:
   other publications:
     title: 'Other Publications'
 
+research_category:
+  working papers:
+    title: 'Working Papers'
+  manuscripts:
+    title: 'Journal Articles'    
+  other publications:
+    title: 'Other Publications'
+
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
@@ -220,6 +228,10 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
+  research:
+    output: true
+    permalink: /:collection/:path/
+  
   portfolio:
     output: true
     permalink: /:collection/:path/
@@ -266,6 +278,16 @@ defaults:
       author_profile: true
       share: true
       comments: true
+  # _research
+  - scope:
+      path: ""
+      type: research
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
+
   # _portfolio
   - scope:
       path: ""
