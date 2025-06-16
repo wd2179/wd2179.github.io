@@ -10,6 +10,9 @@ author_profile: true
 {% endif %}
 
 {% include base_path %}
+{% if page.authors %}
+  <p><strong>Authors:</strong> {{ page.authors }}</p>
+{% endif %}
 
 <!-- New style rendering if publication categories are defined -->
 {% if site.publication_category %}
