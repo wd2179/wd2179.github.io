@@ -2,11 +2,12 @@
 title: "Test-Optional Admissions" 
 collection: publications
 category: working papers
-
 excerpt: 'Many U.S. colleges now use test-optional admissions. A frequent claim is that by not seeing standardized test scores, a college can admit a student body it prefers, say with more diversity. But how can observing less information improve decisions? This paper proposes that test-optional policies are a response to social pressure on admission decisions. We model a college that bears disutility when it makes admission decisions that "society" dislikes. Going test optional allows the college to reduce its "disagreement cost". We analyze how missing scores are imputed and the consequences for the college, students, and society.'
 venue: 'American Economic Review'
 authors: 'Alex Frankel and Navin Kartik'
 paperurl: 'https://arxiv.org/abs/2304.07551'
 
 ---
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+Test-Optional Admissions
+
+Many U.S. colleges now use test-optional admissions. A frequent claim is that by not seeing standardized test scores, a college can admit a student body it prefers, say with more diversity. But how can observing less information improve decisions? This paper proposes that test-optional policies are a response to social pressure on admission decisions. We model a college that bears disutility when it makes admission decisions that "society" dislikes. Going test optional allows the college to reduce its "disagreement cost". We analyze how missing scores are imputed and the consequences for the college, students, and society.'
