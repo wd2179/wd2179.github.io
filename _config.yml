@@ -225,14 +225,11 @@ collections:
   teaching:
     output: true
      sort_by: date
-    permalink: /:collection/:path/
-    
+    permalink: /:collection/:path/    
   publications:
     output: true
     sort_by: date
-    permalink: /:collection/:path/
-   
-    
+    permalink: /:collection/:path/    
   portfolio:
     output: true
     sort_by: date
@@ -281,7 +278,7 @@ defaults:
       author_profile: true
       share: true
       comments: true
-      sort_by: date
+     
   
 
   # _portfolio
