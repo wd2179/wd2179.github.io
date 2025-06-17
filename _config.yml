@@ -216,18 +216,15 @@ kramdown:
 collections:
   teaching:
     output: true
-     sort_by: date
     permalink: /:collection/:path/    
   publications:
     output: true
-    sort_by: date
     permalink: /:collection/:path/    
   portfolio:
     output: true
     permalink: /:collection/:path/
   talks:
     output: true
-    sort_by: date
     permalink: /:collection/:path/
 
 
