@@ -224,17 +224,22 @@ kramdown:
 collections:
   teaching:
     output: true
+     sort_by: date
     permalink: /:collection/:path/
+    
   publications:
     output: true
     sort_by: date
+    permalink: /:collection/:path/
    
     
   portfolio:
     output: true
+    sort_by: date
     permalink: /:collection/:path/
   talks:
     output: true
+    sort_by: date
     permalink: /:collection/:path/
 
 
@@ -276,6 +281,7 @@ defaults:
       author_profile: true
       share: true
       comments: true
+      sort_by: date
   
 
   # _portfolio
