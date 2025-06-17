@@ -224,7 +224,6 @@ collections:
     permalink: /:collection/:path/    
   portfolio:
     output: true
-    sort_by: date
     permalink: /:collection/:path/
   talks:
     output: true
