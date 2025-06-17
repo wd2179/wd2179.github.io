@@ -14,10 +14,10 @@ author_profile: true
 
 <!-- New style rendering if publication categories are defined -->
 {% if site.publication_category %}
-  {% assign sorted_pubs = site.publication_category | sort: 'date' | reverse %}
- {% for post in sorted_pubs %}
+  {% assign sorted_pubs = site.publications | sort: 'date' | reverse %}
+  {% for category in site.publication_category  %}
     {% assign title_shown = false %}
-    {% for post in site.publications reversed %}
+    {% for post in sorted_pubs %}
       {% if post.category != category[0] %}
         {% continue %}
       {% endif %}
@@ -29,11 +29,12 @@ author_profile: true
     {% endfor %}
   {% endfor %}
 {% else %}
-  {% assign sorted_pubs = site.publication_category | sort: 'date' | reverse %}
+  {% assign sorted_pubs = site.publications | sort: 'date' | reverse %}
   {% for post in sorted_pubs %}
-  {% include archive-single.html %}
+    {% include archive-single.html %}
   {% endfor %}
 {% endif %}
+
 
 
 
