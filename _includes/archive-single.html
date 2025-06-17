@@ -79,6 +79,13 @@
     {% elsif post.bibtexurl %}
       <p><a href="{{ post.bibtexurl }}">Download Bibtex</a></p>
     {% endif %}
+{% assign sorted_pubs = site.publications | sort: 'date' | reverse %}
+{% for post in sorted_pubs %}
+  <li>
+    <a href="{{ post.url }}">{{ post.title }}</a><br>
+    <em>{{ post.venue }}</em>, {{ post.date | date: "%B %Y" }}
+  </li>
+{% endfor %}
 
   </article>
 </div>
