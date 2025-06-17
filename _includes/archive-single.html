@@ -1,5 +1,4 @@
 {% include base_path %}
-{% assign sorted_pubs = site.publications | sort: 'date' | reverse %}
 {% if post.header.teaser %}
   {% capture teaser %}{{ post.header.teaser }}{% endcapture %}
 {% else %}
