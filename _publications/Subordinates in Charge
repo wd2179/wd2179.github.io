@@ -2,8 +2,9 @@
 title: "Subordinates in Charge: Does Delegation Improve Bank Supervision?"
 collection: publications
 category: working papers
-excerpt: 'We study a policy reform that delegated supervisory decision-making authority for a subset of bank branches to a lower hierarchy. Consistent with a model of information loss in supervisory communication, we find improved supervisory outcomes following the reform: Supervisory interventions indicate better detection of misconduct by banks as well as a better assessment of the severity of misconduct. The effects are more pronounced when (i) centralized decision-making deters access to local information, and (ii) uncertainty about the local environment is high, aligning with theoretical predictions. Our findings highlight decentralization benefits within a supervisory hierarchy.'
+excerpt: 'We develop a model of bias and information loss in supervisory communication and apply it to evaluate a policy reform that delegated supervisory authority over a subset of bank branches to a lower level. Affected branches become 57-80\% more likely to face supervisory intervention, implying substantial efficiency gains arising from improved detection of banking misconduct and more accurate assessments of its severity. The evidence is inconsistent with alternative explanations, including increased supervisory stringency or greater risk-taking by banks. Our analysis highlights decentralization benefits within supervisory hierarchies specifically, and speaks to the optimal organizational design for fraud detection more broadly.'
 authors: 'Wouter Dessein, Thomas Lambert and Wolf Wagner'
 venue: 'Draft'
-date: 2025-12-01
+date: 2026-06-01
+paperurl: 'http://wd2179.github.io/files/Subordinates_in_charge.pdf'
 ---
