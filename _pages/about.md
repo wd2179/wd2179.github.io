@@ -7,9 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-I am the Eli Ginzberg Professor of Finance and Economics at Columbia Business School.
+I am the Eli Ginzberg Professor of Finance and Economics at Columbia Business School
 (On Leave, Fall 2026)
 
-My research interests center on the economics of organizations (``organizational economics'') and firm strategy. 
+My research interests center on the economics of organizations (``organizational economics'') and firm strategy 
 
 Contact me at wouterhdessein@gmail.com
