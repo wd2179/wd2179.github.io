@@ -23,7 +23,7 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.jpg"
-  #name             : "Wouter Dessein"
+  # name             : # "Wouter Dessein"
   pronouns         : # example: "she/her"  
   bio              :# "Wouter Dessein is the Eli Ginzberg Professor of Finance and Economics at Columbia Business School."
   # location         : "New York"
