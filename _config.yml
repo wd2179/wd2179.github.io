@@ -25,7 +25,7 @@ author:
   avatar           : "profile.jpg"
   name             : 
   pronouns         : # example: "she/her"  
-  bio              :# "Wouter Dessein is the Eli Ginzberg Professor of Finance and Economics at Columbia Business School."
+  bio              : # "Wouter Dessein is the Eli Ginzberg Professor of Finance and Economics at Columbia Business School."
   # location         : "New York"
   employer         : "Columbia University"
   email            : "wouterhdessein@gmail.com" 
